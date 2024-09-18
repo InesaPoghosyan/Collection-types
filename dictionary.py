@@ -26,7 +26,7 @@ for value in mydict.values():
 mydict_cpy = mydict
 mydict_cpy = mydict.copy()
 print(mydict_cpy)
-mydict_cpy["email"] = "mari@gmail.com"
+mydict_cpy["email"] = "pogosyaninesa@gmail.com"
 print(mydict)
 
 # ******************************
